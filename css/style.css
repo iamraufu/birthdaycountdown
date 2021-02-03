@@ -13,7 +13,7 @@
 
 body {
     margin: 0;
-    background-image: url(../images/bg.jpg);
+    background-image: url(../image/bg.jpg);
     background-size: cover;
     background-position: center center;
     min-height: 100vh;
