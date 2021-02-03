@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+#name {
+    color: #ffe66b;
+}
+
+#name:hover {
+    color: #eed65d;
+    cursor: pointer;
+}
+
+body {
+    margin: 0;
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    margin-top: -30rem;
+    font-size: 4rem;
+}
+
+.countdown-container {
+    display: flex;
+}
+
+.text {
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
+
+.countdown-box {
+    text-align: center;
+}
